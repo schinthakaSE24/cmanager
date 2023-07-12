@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col">
                 <p class="h3 text-success fw-bold">Add Contact</p>
-                <p class="fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, recusandae. Vel odit debitis expedita, provident officia ex molestiae reprehenderit molestias cum quasi vero vitae a consequatur fugit placeat repudiandae commodi.</p>
+                <p class="fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 
             </div>
         </div>
