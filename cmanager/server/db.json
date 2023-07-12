@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "nuwani sachinthani",
+      "photo": "https://th.bing.com/th/id/R.219c36f0da053be6810bf890683de60a?rik=TMTQOLdr87KvBA&pid=ImgRaw&r=0",
+      "email": "nuwansachinthakasoftware24@gmail.com",
+      "mobile": "15648421022",
+      "title": "doing the job",
+      "company": "famer",
+      "groupId": "4",
+      "id": "102030"
+    },
+    {
+      "name": "dilka",
+      "photo": "https://th.bing.com/th/id/R.219c36f0da053be6810bf890683de60a?rik=TMTQOLdr87KvBA&pid=ImgRaw&r=0\"",
+      "email": "sachinthakanuwan5@gmail.com",
+      "mobile": "0786365412",
+      "title": "doing the",
+      "company": "hsenid",
+      "groupId": "2",
+      "id": "yi9A9zF"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "friend"
+    },
+    {
+      "id": "3",
+      "name": "family"
+    },
+    {
+      "id": "4",
+      "name": "service"
+    }
+  ]
+}
